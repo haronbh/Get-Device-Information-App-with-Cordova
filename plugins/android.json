@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "org.sys_apps.SysInfo"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "org.sys_apps.SysInfo"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "org.sys_apps.SysInfo"
+    },
+    "cordova-plugin-geolocation": {
+      "GPS_REQUIRED": "true",
+      "PACKAGE_NAME": "org.sys_apps.SysInfo"
+    }
+  },
+  "dependent_plugins": {}
+}
